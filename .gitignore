@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Машинні налаштування (шлях до SDK на конкретному ПК)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Зібраний APK залишаємо в корені (PDF-Viewer.apk) для зручного завантаження
+app/release/
+app/debug/
