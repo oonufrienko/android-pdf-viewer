@@ -14,3 +14,6 @@ local.properties
 # Зібраний APK залишаємо в корені (PDF-Viewer.apk) для зручного завантаження
 app/release/
 app/debug/
+
+# Службові файли Claude Code
+.claude/
