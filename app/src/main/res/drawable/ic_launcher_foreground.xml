@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Вміст зменшено до безпечної зони адаптивної іконки (центральні ~66dp),
+         щоб ніякі форми лаунчера його не обрізали -->
+    <group
+        android:scaleX="0.72"
+        android:scaleY="0.72"
+        android:pivotX="54"
+        android:pivotY="54">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M30,30h34l14,14v34a4,4 0 0 1 -4,4H30a4,4 0 0 1 -4,-4V34a4,4 0 0 1 4,-4z" />
+        <path
+            android:fillColor="#BBDEFB"
+            android:pathData="M64,30l14,14h-14z" />
+        <path
+            android:fillColor="#1976D2"
+            android:pathData="M34,58h40v4h-40zM34,66h40v4h-40zM34,50h24v4h-24z" />
+    </group>
+</vector>

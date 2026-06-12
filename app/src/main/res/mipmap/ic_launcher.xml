@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Запасна іконка для Android 7.x (до адаптивних іконок):
+         синій фон на весь розмір, без прозорих полів -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M14,0h80a14,14 0 0 1 14,14v80a14,14 0 0 1 -14,14H14a14,14 0 0 1 -14,-14V14a14,14 0 0 1 14,-14z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30h34l14,14v34a4,4 0 0 1 -4,4H30a4,4 0 0 1 -4,-4V34a4,4 0 0 1 4,-4z" />
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M64,30l14,14h-14z" />
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M34,58h40v4h-40zM34,66h40v4h-40zM34,50h24v4h-24z" />
+</vector>
