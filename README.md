@@ -17,8 +17,9 @@
 
 ## Встановлення
 
-Готовий APK: [PDF-Viewer.apk](PDF-Viewer.apk) — скопіюйте на телефон і відкрийте
-(дозвольте встановлення з невідомих джерел).
+Готовий APK — на сторінці [Releases](https://github.com/oonufrienko/android-pdf-viewer/releases/latest),
+пряме посилання: [PDF-Viewer.apk](https://github.com/oonufrienko/android-pdf-viewer/releases/latest/download/PDF-Viewer.apk).
+Скопіюйте на телефон і відкрийте (дозвольте встановлення з невідомих джерел).
 
 Щоб зробити додаток переглядачем за замовчуванням: відкрийте будь-який PDF →
 виберіть **PDF Viewer** → **«Завжди»**.

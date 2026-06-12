@@ -11,9 +11,15 @@ local.properties
 *.iml
 .DS_Store
 
-# Зібраний APK залишаємо в корені (PDF-Viewer.apk) для зручного завантаження
+# Зібрані APK публікуються через GitHub Releases, не в коді
+*.apk
 app/release/
 app/debug/
 
 # Службові файли Claude Code
 .claude/
+
+# Ключ підпису release-збірок — ніколи не комітити
+keystore.properties
+*.jks
+*.keystore
