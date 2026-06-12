@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="empty_hint">Натисніть, щоб відкрити PDF-файл</string>
+    <string name="action_open">Відкрити</string>
+    <string name="action_share">Поділитися</string>
+    <string name="action_donate">Подякувати</string>
+    <string name="share_via">Поділитися документом</string>
+    <string name="open_error">Не вдалося відкрити PDF-файл</string>
+    <string name="share_error">Не вдалося поділитися файлом</string>
+    <string name="nothing_to_share">Спочатку відкрийте PDF-файл</string>
+</resources>

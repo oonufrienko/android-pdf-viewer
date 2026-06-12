@@ -19,8 +19,8 @@ android {
         // з Android 15/16, включно з Redmi 9A (Android 11)
         minSdk 24
         targetSdk 35
-        versionCode 3
-        versionName "1.2"
+        versionCode 4
+        versionName "1.3"
 
         ndk {
             // Тільки реальні телефонні архітектури: x86-емуляторні

@@ -117,10 +117,19 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
+    private fun openDonatePage() {
+        try {
+            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://ko-fi.com/river44")))
+        } catch (e: Exception) {
+            // на пристрої немає браузера — нічого не робимо
+        }
+    }
+
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             R.id.action_open -> { pickFile(); true }
             R.id.action_share -> { sharePdf(); true }
+            R.id.action_donate -> { openDonatePage(); true }
             else -> super.onOptionsItemSelected(item)
         }
     }
